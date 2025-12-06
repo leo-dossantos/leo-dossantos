@@ -6,5 +6,6 @@ Olá! Eu sou o Leonardo
 -> Buscando minha primeira oportunidade como Dev Java Júnior
 
 --> Como me encontrar
+
 Email: leonardo.2snts@gmail.com  
 LinkedIn: www.linkedin.com/in/leonardo-dos-santos-5b205735b
