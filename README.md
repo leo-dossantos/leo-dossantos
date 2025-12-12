@@ -9,4 +9,4 @@ Olá! Eu sou o Leonardo
 --> Como me encontrar
 
 Email: leonardo.2snts@gmail.com  
-LinkedIn: www.linkedin.com/in/leonardo-dos-santos-5b205735b
+LinkedIn: www.linkedin.com/in/leosantos-dev
