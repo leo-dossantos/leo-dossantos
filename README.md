@@ -1,10 +1,8 @@
 Olá! Eu sou o Leonardo
 
--> Desenvolvedor Java em início de carreira  
-
--> Construindo projetos e postando eles diretamente aqui no GitHub
-
--> Buscando minha primeira oportunidade como Dev Java Júnior
+Sou desenvolvedor em formação com 6 meses de estudos focados em Backend.
+Possuo 5 anos de experiência em edição de vídeo e 7 anos em conserto e manutenção de hardware.
+Busco minha primeira oportunidade como desenvolvedor backend.
 
 --> Como me encontrar
 
